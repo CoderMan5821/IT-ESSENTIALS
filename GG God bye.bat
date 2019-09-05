@@ -39,7 +39,7 @@ pause
 GOTO PRESENTATION
 
 :SHUTDOWN
-/s /t 60 /c "Shutdown in progress, leave the vicinity immediately"
+/s /t 5 /c "Shutdown in progress, leave the vicinity immediately"
 eof
 
 :No
@@ -186,3 +186,8 @@ echo       |      ||      |
 echo       |------||------|
 echo       |      ||      |
 echo       |______||______|
+pause
+cls
+echo ERROR>>>>COMMENCING SHUTDOWN PROTOCOLS>>>>>
+pause
+GOTO SHUTDOWN
