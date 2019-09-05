@@ -36,6 +36,9 @@ IF %M%==4 GOTO EOF
 cls
 echo "Ok. Complying"
 pause
+GOTO PRESENTATION
+
+:SHUTDOWN
 /s /t 60 /c "Shutdown in progress, leave the vicinity immediately"
 eof
 
@@ -46,8 +49,8 @@ ECHO ...............................................
 ECHO PRESS 1, 2 OR 3 to select your task, or 4 to EXIT.
 ECHO ...............................................
 ECHO.
-ECHO 1 - Yes
-ECHO 2 - Yes
+ECHO 1 - No
+ECHO 2 - No
 echo. 
 
 SET /P M=Type 1, 2, 3, or 4 then press ENTER:
@@ -76,3 +79,27 @@ Echo No You
 Echo No You
 Echo No You
 pause
+GOTO YES
+
+:PRESENTATION
+echo 5 things you shoud know about me:
+pause
+pause
+cls
+echo I love to climb trees
+pause
+cls
+echo I like to tinker with things
+pause
+cls
+pause
+echo ______
+echo \     \
+echo  \     \
+echo   \     \
+echo    \     \
+echo     -------
+echo        \ \
+echo         \ \
+echo          \ \
+echo           \ \
