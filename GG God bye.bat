@@ -86,10 +86,42 @@ echo 5 things you shoud know about me:
 pause
 pause
 cls
-echo I love to climb trees
+echo 1. I love to climb trees
+echo                                              .
+echo                                    .         ;
+echo       .              .              ;%     ;;
+echo         ,           ,                :;%  %;
+echo          :         ;                   :;%;'     .,
+echo ,.        %;     %;            ;        %;'    ,;
+echo   ;       ;%;  %%;        ,     %;    ;%;    ,%'
+echo    %;       %;%;      ,  ;       %;  ;%;   ,%;'
+echo     ;%;      %;        ;%;        % ;%;  ,%;'
+echo      `%;.     ;%;     %;'         `;%%;.%;'
+echo       `:;%.    ;%%. %@;        %; ;@%;%'
+echo          `:%;.  :;bd%;          %;@%;'
+echo            `@%:.  :;%.         ;@@%;'
+echo              `@%.  `;@%.      ;@@%;
+echo                `@%%. `@%%    ;@@%;
+echo                  ;@%. :@%%  %@@%;
+echo                    %@bd%%%bd%%:;
+echo                      #@%%%%%:;;
+echo                      %@@%%%::;
+echo                      %@@@%(o);  . '
+echo                      %@@@o%;:(.,'
+echo                  `.. %@@@o%::;
+echo                     `)@@@o%::;
+echo                      %@@(o)::;
+echo                     .%@@@@%::;
+echo                     ;%@@@@%::;.
+echo                    ;%@@@@%%:;;;.
+echo                ...;%@@@@@%%:;;;;,..    Gilo97
+echo 
+pause
+
+
 pause
 cls
-echo I like to tinker with things
+echo 2. I like to tinker with things
 pause
 cls
 pause
@@ -111,7 +143,7 @@ echo                \ \
 echo                 \-\
 pause
 cls
-echo I have 4 dogs
+echo 3. I have 4 dogs
 pause
 cls
 echo              .--~~,__
@@ -121,3 +153,36 @@ echo   _,-' ,'`-__; '--.
 echo  (_/'~~      ''''(;
 pause
 echo woof!
+pause
+cls
+echo 4. I love to lay in my hammock
+pause
+echo ___                  ___
+echo    \                /
+echo     \______________/
+pause
+cls
+echo 5. I like to play with legos
+echo          .-+~~~~+-.
+echo         /          \
+echo         |'~~~~~~~~`|
+echo         ||  o  o  ||
+echo         ||  \__/  ||
+echo         |`--------'|
+echo         >----------<
+echo      ,p~V          V~q,
+echo     ,Z  /.sdbs. d7 \  N,
+echo     Z  | 8(  )8_/P `|  N
+echo    d'  | `YbdY'     |  `b
+echo   |' ,.|            |., `|
+echo   | _ /|            |~   |
+echo .p~~TV/             ./*T~\,
+echo |( ) \|~~~~~~~~~~~~~V ()#,|
+echo `b'\\.|-----+--+-----\/  ~'
+echo  `` ``|     |  |     |~+
+echo       |     |  |     |
+echo       |------`'------|
+echo       |      ||      |
+echo       |------||------|
+echo       |      ||      |
+echo       |______||______|
