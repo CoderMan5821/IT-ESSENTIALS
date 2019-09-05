@@ -103,3 +103,21 @@ echo        \ \
 echo         \ \
 echo          \ \
 echo           \ \
+echo            \ \
+echo             \ \
+echo              \ \
+echo               \ \
+echo                \ \
+echo                 \-\
+pause
+cls
+echo I have 4 dogs
+pause
+cls
+echo              .--~~,__
+echo :-....,-------`~~'._.'
+echo `-,,,  ,_      ;'~U'
+echo   _,-' ,'`-__; '--.
+echo  (_/'~~      ''''(;
+pause
+echo woof!
