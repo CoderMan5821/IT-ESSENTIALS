@@ -1,7 +1,7 @@
 echo.
 echo BEGINNING DECRYPTION ALGORYTHM
 echo.
-wait 5
+sleep 5
 cls
 echo.
 echo.
